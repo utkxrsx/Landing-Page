@@ -14,9 +14,6 @@ A sleek, animated, and responsive landing page built with HTML, CSS, and vanilla
 - 🌀 **Floating Graphics & Elements**
 - 📱 **Fully Responsive** for mobile, tablet, and desktop
 
-## 🖼️ Preview
-
-![GigFloww Landing Page Screenshot](./components/preview.jpg)
 
 ## 🧰 Technologies Used
 
