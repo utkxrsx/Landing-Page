@@ -22,13 +22,6 @@ A sleek, animated, and responsive landing page built with HTML, CSS, and vanilla
 - **JavaScript** (for FAQ toggle & interaction)
 - **Pure CSS animations** (typing effect, hover transitions, float, glow)
 
-## 📁 Folder Structure
-
-gigfloww-landing-page/ ├── index.html ├── style.css ├── script.js └── components/ ├── bg.jpg ├── figure.jpeg └── preview.jpg
-
-markdown
-Copy
-Edit
 
 ## 🔧 How It Works
 
@@ -45,9 +38,6 @@ Edit
    git clone https://github.com/yourusername/gigfloww-landing-page.git
 Navigate to the project folder:
 
-bash
-Copy
-Edit
 cd gigfloww-landing-page
 Open index.html in your browser to view the page locally.
 
